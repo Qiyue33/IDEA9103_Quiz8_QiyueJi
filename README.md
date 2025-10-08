@@ -6,12 +6,14 @@ My inspiration comes from the Superellipse Grid artwork on OpenProcessing and Pa
 
 
 Example Images  
-![Example 1](Images/f63c3a0c3ea95758f7c582dd3d0fbc0a--wheel-of-fortune-oil-on-canvas.jpg)
+![Example 1](<Images/Heels Fortune.jpg>)
+![Example 2](<Images/Superellipse Grid.png>)
 
 
 ## Part 2: Coding Technique Exploration
 
-To achieve the combination of the Superellipse Grid and Pacita Abad’s style, I will use p5.js. To achieve the combination of the Superellipse Grid and Pacita Abad’s style, I will use p5.js. In addition, I will incorporate random color functions and a simple particle system to add dynamic, colorful, and organic effects to the final visual.
+To achieve the combination of the Superellipse Grid and Pacita Abad’s style, I will use p5.js. Essential techniques include 'for' loops and the trigonometric functions 'cos()' and 'sin()' to generate the grid structure. In addition, I will incorporate random color functions and a simple particle system to add dynamic, colorful, and organic effects to the final visual.
 
 
 [Link of the code](https://openprocessing.org/sketch/2685985)
+[Link of the simple particle system](https://thecodingtrain.com/challenges/78-simple-particle-system?utm_source=chatgpt.com)
